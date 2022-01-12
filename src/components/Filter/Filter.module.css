@@ -1,0 +1,11 @@
+.filter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.title {
+  font-size: 15px;
+  text-align: 1.2;
+}

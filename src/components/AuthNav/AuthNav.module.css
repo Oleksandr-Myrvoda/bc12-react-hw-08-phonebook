@@ -1,0 +1,21 @@
+.nav {
+  margin-right: 20px;
+}
+.link {
+  display: inline-block;
+  padding: 15px;
+  text-decoration: none;
+  color: #1873e9;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.activeLink {
+  color: #0921ad;
+  text-shadow: 3px 3px 8px rgb(0, 0, 0);
+}
+
+.link:hover,
+.link:focus {
+  color: #0921ad;
+}
